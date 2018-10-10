@@ -1,0 +1,10 @@
+/*
+CSS for div element
+*/
+div {
+	left:500px;
+	text-align:justify;
+	font-family: sans-serif;
+	padding: 5px;
+	border: 1px solid black;
+}
